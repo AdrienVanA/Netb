@@ -6,18 +6,11 @@
 package gitteur;
 
 /**
- * * @author Utilisateur
+ *
+ * @author Utilisateur
  */
-public class Gitteur {
-
-    public Gitteur{
+public class Gittest2 {
     
-    
-    
-    
-}
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+   
     
 }
